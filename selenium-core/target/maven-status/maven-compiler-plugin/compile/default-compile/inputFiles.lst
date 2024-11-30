@@ -1,0 +1,11 @@
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/browser/SeBrowserImpl.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/browser/SeWebDriverFactory.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/browser/SeleniumChromeWebDriver.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/browser/SeleniumFirefoxWebDriver.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeButtonImpl.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeButtonLoggingDecorator.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeEditImpl.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeEditLoggingDecorator.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeElementImpl.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeElementLoggingDecorator.java
+/Users/sbaskaran/Documents/Adapter and Bridge/selenium-core/src/main/java/com/testleaf/web/element/SeLinkImpl.java
