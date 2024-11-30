@@ -1,0 +1,11 @@
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/constants/BrowserTestEngine.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/constants/BrowserType.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/constants/LocatorType.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/api/APIClient.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/api/ResponseAPI.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/browser/Browser.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/browser/WebDriverProvider.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/element/Button.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/element/Edit.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/element/Element.java
+/Users/sbaskaran/Documents/Adapter and Bridge/core-interfaces/src/main/java/com/testleaf/web/element/Link.java
